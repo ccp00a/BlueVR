@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: d857eaa69a1629b459aaa7e289e1d7e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: build
+    100002: build1
+    100004: build10
+    100006: build11
+    100008: build2
+    100010: build3
+    100012: build4
+    100014: build5
+    100016: build6
+    100018: build7
+    100020: build8
+    100022: build9
+    100024: lubiansheshi
+    100026: lubiansheshi1
+    100028: lubiansheshi2
+    100030: lubiansheshi3
+    100032: lumian
+    100034: lumian1
+    100036: lumian2
+    100038: lumian3
+    100040: lumian4
+    100042: lumian5
+    100044: //RootNode
+    400000: build
+    400002: build1
+    400004: build10
+    400006: build11
+    400008: build2
+    400010: build3
+    400012: build4
+    400014: build5
+    400016: build6
+    400018: build7
+    400020: build8
+    400022: build9
+    400024: lubiansheshi
+    400026: lubiansheshi1
+    400028: lubiansheshi2
+    400030: lubiansheshi3
+    400032: lumian
+    400034: lumian1
+    400036: lumian2
+    400038: lumian3
+    400040: lumian4
+    400042: lumian5
+    400044: //RootNode
+    2100000: pasted__blinn103
+    2100002: pasted__caodi
+    2100004: pasted__luya
+    2100006: pasted__blinn17
+    2100008: pasted__blinn59
+    2100010: pasted__blinn46
+    2100012: pasted__blinn60
+    2100014: pasted__blinn19
+    2100016: pasted__blinn25
+    2100018: pasted__blinn104
+    2100020: pasted__blinn47
+    2100022: pasted__blinn11
+    2100024: pasted__blinn12
+    2100026: pasted__blinn1
+    2100028: pasted__blinn2
+    2100030: pasted__blinn3
+    2100032: pasted__blinn9
+    2100034: pasted__blinn4
+    2100036: pasted__blinn29
+    2100038: pasted__blinn16
+    2100040: pasted__blinn30
+    2100042: pasted__blinn18
+    2100044: pasted__jianzhu_01
+    2100046: pasted__jianzhu_03
+    2100048: pasted__jianzhu_05
+    2100050: pasted__jianzhu_06
+    2100052: pasted__banmaxian
+    2100054: pasted__malu
+    2100056: pasted__malurenxin
+    2100058: blinn74
+    2100060: pasted__renxingdao
+    2100062: pasted__blinn433
+    2100064: pasted__honglvdeng1
+    2100066: pasted__honglvdeng
+    2300000: build1
+    2300002: build10
+    2300004: build11
+    2300006: build2
+    2300008: build3
+    2300010: build4
+    2300012: build5
+    2300014: build6
+    2300016: build7
+    2300018: build8
+    2300020: build9
+    2300022: lubiansheshi1
+    2300024: lubiansheshi2
+    2300026: lubiansheshi3
+    2300028: lumian1
+    2300030: lumian2
+    2300032: lumian3
+    2300034: lumian4
+    2300036: lumian5
+    3300000: build1
+    3300002: build10
+    3300004: build11
+    3300006: build2
+    3300008: build3
+    3300010: build4
+    3300012: build5
+    3300014: build6
+    3300016: build7
+    3300018: build8
+    3300020: build9
+    3300022: lubiansheshi1
+    3300024: lubiansheshi2
+    3300026: lubiansheshi3
+    3300028: lumian1
+    3300030: lumian2
+    3300032: lumian3
+    3300034: lumian4
+    3300036: lumian5
+    4300000: build1
+    4300002: build2
+    4300004: build3
+    4300006: build4
+    4300008: build5
+    4300010: build6
+    4300012: build7
+    4300014: build8
+    4300016: build9
+    4300018: build10
+    4300020: build11
+    4300022: lumian1
+    4300024: lumian2
+    4300026: lumian3
+    4300028: lumian4
+    4300030: lumian5
+    4300032: lubiansheshi1
+    4300034: lubiansheshi2
+    4300036: lubiansheshi3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn74
+    second: {fileID: 2100000, guid: ffe0dbd20e0c4784e9fe0da186000992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__banmaxian
+    second: {fileID: 2100000, guid: e54f1b8731c78f14fb3974c11937023a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn1
+    second: {fileID: 2100000, guid: cccc92713e1614b4f9d3eb5814b89dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn103
+    second: {fileID: 2100000, guid: 254e628d23772b349a1a458c971a89d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn104
+    second: {fileID: 2100000, guid: 74243bec12cb4854d9f820acc3e1926b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn11
+    second: {fileID: 2100000, guid: d0891c1c1a8fe6644acb77547a4701c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn12
+    second: {fileID: 2100000, guid: 564703202c617514aa777574204dd91a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn16
+    second: {fileID: 2100000, guid: 6ec7e5afbc8e7644aafdb61d3127babb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn17
+    second: {fileID: 2100000, guid: 3a758a9fb06df4f4baeee4602fb7b27e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn18
+    second: {fileID: 2100000, guid: 7749edc20c8f4364fbc8db7afa9053fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn19
+    second: {fileID: 2100000, guid: 4c5ecf572faafe3408f7a168905a16a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn2
+    second: {fileID: 2100000, guid: 71501ccfeba5ab14badc79316fc5833b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn25
+    second: {fileID: 2100000, guid: 3bb667105fd9c3d4fb6b0052536001c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn29
+    second: {fileID: 2100000, guid: e9b03ca5193dbb44db24ff1591f4cfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn3
+    second: {fileID: 2100000, guid: a5560b4df0d872347a567d7d2ccf4c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn30
+    second: {fileID: 2100000, guid: 49b0750680c7e8640bd58e02e28d965c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn4
+    second: {fileID: 2100000, guid: da3bcde25f7a6bd4284cfaa2f086aea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn433
+    second: {fileID: 2100000, guid: 6c0d039a49f6fd943b5e067a28405661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn46
+    second: {fileID: 2100000, guid: c53f81972024a584898183fd6bc29c87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn47
+    second: {fileID: 2100000, guid: 09f81591935388b418e03c16a95362e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn59
+    second: {fileID: 2100000, guid: 46b032d36a9477147ab4803ff78df5ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn60
+    second: {fileID: 2100000, guid: 565d97e2b424f474d9e212e70278ee14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn9
+    second: {fileID: 2100000, guid: 1ac4e29a9e53bc94f88ba3fa8d8c3783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__caodi
+    second: {fileID: 2100000, guid: 499810a1f8cc88f49aacc62288a46daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__honglvdeng
+    second: {fileID: 2100000, guid: 8b13a333a53be7a429b632f97a88b31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__honglvdeng1
+    second: {fileID: 2100000, guid: b3a2775b22e48054e9b15576076300bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__jianzhu_01
+    second: {fileID: 2100000, guid: 3815306399b2b774a89fd6179a739df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__jianzhu_03
+    second: {fileID: 2100000, guid: d11b4a488bdda96449fc45b08346f252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__jianzhu_05
+    second: {fileID: 2100000, guid: 5890d300d39d22948806fb207106a7d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__jianzhu_06
+    second: {fileID: 2100000, guid: c645890d7102f654a932b217d224122f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__luya
+    second: {fileID: 2100000, guid: 31cb1431e25bcf847b8c55b991b78761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__malu
+    second: {fileID: 2100000, guid: 4427ed5727a85174688cb9bfc3a8074a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__malurenxin
+    second: {fileID: 2100000, guid: e55a385f53675e148bb80e0cddf942bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__renxingdao
+    second: {fileID: 2100000, guid: e7147bb0008e3ac4f8f8dd275d4753a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

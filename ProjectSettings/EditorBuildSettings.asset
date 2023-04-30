@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test_Scene/Store_URP.unity
+    guid: b122d83d41e932c4da18f9db6dae4690
+  - enabled: 1
+    path: Assets/Scenes/Calibration Theme.unity
+    guid: 0d1a899eebdfb2246817d3e8249e4868
+  - enabled: 1
+    path: Assets/Scenes/Crossroad_URP.unity
+    guid: 7ae7b6636f4581741826d7dfe5e8e648
+  - enabled: 1
+    path: Assets/Scenes/Taks1.unity
+    guid: 8a2a681073bafc24ba8a0bb4bbb8244f
+  - enabled: 1
+    path: Assets/Scenes/Prototype/Task1_Normal.unity
+    guid: a45a5a83673b0c04da6e9dc1ede760fd
+  - enabled: 1
+    path: Assets/Scenes/Task2.unity
+    guid: 74d42f54e669e2549abb41ea5aa58b83
+  - enabled: 1
+    path: Assets/Scenes/Prototype/Task2_Normal.unity
+    guid: a8be6fd31510a9b4e97071d82c2fd268
+  - enabled: 1
+    path: Assets/Scenes/ThankYou.unity
+    guid: f829fb6be41871449ae931601bc09aab
+  - enabled: 1
+    path: Assets/Scenes/Task1_Acting.unity
+    guid: ca4911c838923a54bb3778d8c8c67289
+  - enabled: 1
+    path: Assets/Scenes/Task2_Acting.unity
+    guid: 691314fee166fb54f9379b37689cbd78
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: dfc36a07b9afec94f9d2e33fa5b53adc,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}

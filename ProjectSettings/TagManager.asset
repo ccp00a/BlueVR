@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scoreable
+  - Fruit1
+  - Drink1
+  - Bucket
+  - Alice
+  - Daniel
+  - Echo
+  - Yihao
+  - Me
+  - Alice2
+  - Daniel2
+  - Echo2
+  - Yihao2
+  - Me2
+  - NewGoodLabel
+  - OldGoodLabel
+  - NewIcon
+  - Box
+  - Trail
+  - OnSaleText
+  - OnSaleBg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Grabbable
+  - Water
+  - UI
+  - Bucket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 26a8a6a07453f6847bfb4317922a0f20
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: renwu1
+    100004: renwu2
+    400000: //RootNode
+    400002: renwu1
+    400004: renwu2
+    2100000: pasted__c7d648bf.dds
+    2100002: pasted__15bd6bc7.dds
+    2100004: pasted__62d1e816.dds
+    2100006: pasted__488a78da.dds
+    2100008: pasted__5feb7db1.dds
+    2100010: pasted__a1c1b0f5.dds
+    2100012: pasted__db8f38ac.dds
+    2100014: pasted__9c161e48.dds
+    2100016: pasted__d6428c57.dds
+    2100018: pasted__3ea80e0f.dds
+    2100020: pasted__abbec2ad.dds
+    2100022: pasted__cc5a76c0.dds
+    2100024: pasted__3919bbeb.dds
+    2100026: pasted__c5b56029.dds
+    2100028: pasted__67ed3ecb.dds
+    2100030: pasted__5c203d00.dds
+    2100032: pasted__1376b488.dds
+    2100034: pasted__d117864b.dds
+    2300000: renwu1
+    2300002: renwu2
+    3300000: renwu1
+    3300002: renwu2
+    4300000: renwu1
+    4300002: renwu2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__1376b488.dds
+    second: {fileID: 2100000, guid: f508b7c8224a7ab4fa4a51eb84ac88de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__15bd6bc7.dds
+    second: {fileID: 2100000, guid: e6bd39452122feb479e2e889b93ec214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__3919bbeb.dds
+    second: {fileID: 2100000, guid: 6a1dabe0aafc8754480964cf1bae3758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__3ea80e0f.dds
+    second: {fileID: 2100000, guid: e6cebb0089fabe3459a9c4352c937998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__488a78da.dds
+    second: {fileID: 2100000, guid: bb091cfbaf27f0b47b178746861dc7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__5c203d00.dds
+    second: {fileID: 2100000, guid: a775fa1a5131cdc448b13ddc9e413a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__5feb7db1.dds
+    second: {fileID: 2100000, guid: 219b1d32d7cced54baeff15d222933c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__62d1e816.dds
+    second: {fileID: 2100000, guid: 6c9f83a0878291240beaf7917501519b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__67ed3ecb.dds
+    second: {fileID: 2100000, guid: 0147a841868e83240a0fd60f3d23cace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__9c161e48.dds
+    second: {fileID: 2100000, guid: 58d8276f36dc0f74db4c35681018062b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__a1c1b0f5.dds
+    second: {fileID: 2100000, guid: 544958c88a68e804d80ae4c170c79707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__abbec2ad.dds
+    second: {fileID: 2100000, guid: 1c900fff68a10454097d7edd8bd903eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__c5b56029.dds
+    second: {fileID: 2100000, guid: 1385bf5ff073b754e981b8ea99dc9820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__c7d648bf.dds
+    second: {fileID: 2100000, guid: 3301c2c1df21d8b4596098f37d39c281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__cc5a76c0.dds
+    second: {fileID: 2100000, guid: fae278ad563dda4429a6f6a5feb54923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__d117864b.dds
+    second: {fileID: 2100000, guid: 4f9ecaf34664eff4e846f8236b89b9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__d6428c57.dds
+    second: {fileID: 2100000, guid: dadf2ecb33c9bc846b54669c4846d576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__db8f38ac.dds
+    second: {fileID: 2100000, guid: 9666fadafca418940a03c547e6fdfec0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
